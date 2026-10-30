@@ -80,16 +80,5 @@ Missing values are injected at three rates:
 
 ---
 
-## 📊 Results Summary
-In the project’s experiments:
-- **MICE** produced results similar to those reported in the reference paper at the 0.0175% missing rate.
-- **MissForest for numerical features** achieved a lower RMSE than the paper’s reported result, while its MAE was similar.
-- **MissForest for categorical features** achieved higher accuracy than the paper’s reported result in both the One-Hot and Ordinal Encoding experiments.
-- **GAIN** achieved a lower RMSE but a higher MAE than the paper’s reported result.
-
-*(Note: These comparisons should be interpreted in the context of the project’s setup using the Adult dataset rather than the paper’s full OpenData collection.)*
-
----
-
 ## ⚖️ License
 This project is academic research work. **All Rights Reserved**. Unauthorized copying, distribution, or usage is strictly prohibited until official publication of the research. See the [LICENSE](LICENSE) file for details.
