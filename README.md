@@ -1,4 +1,4 @@
-# Benchmarking Missing Data Imputation Across Four Iterative Pipeline Versions on the Adult Dataset
+# Benchmarking Missing Data Imputation Across Four Iterative Pipeline Versions on the UCI Adult Income Dataset
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
